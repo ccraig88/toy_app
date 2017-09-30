@@ -1,0 +1,13 @@
+[user]
+    name = Chris Craig
+    email = ccraig2435@gmail.com
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current

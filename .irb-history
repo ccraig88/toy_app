@@ -1,0 +1,3 @@
+first_user = User.first
+first_user.microposts
+exit
